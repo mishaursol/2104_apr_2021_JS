@@ -24,7 +24,7 @@ HTML
   )
 
 
-Валидаторы HTML / CSS
+Валидаторы HTML/CSS
 
 
 Figma
